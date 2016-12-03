@@ -1,0 +1,27 @@
+D:\C# Programs\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\C# Programs\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+D:\C# Programs\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\C# Programs\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\C# Programs\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\C# Programs\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+D:\C# Programs\Calc1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\C# Programs\Calc1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\C# Programs\Calc1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+D:\C# Programs\Calc1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\C# Programs\Calc1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\C# Programs\Calc1\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+D:\C# Programs\Console Programs\Personal\Calc1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\C# Programs\Console Programs\Personal\Calc1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\C# Programs\Console Programs\Personal\Calc1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+D:\C# Programs\Console Programs\Personal\Calc1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\C# Programs\Console Programs\Personal\Calc1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\C# Programs\Console Programs\Personal\Calc1\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+D:\C# Programs\Personal\Calc1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\C# Programs\Personal\Calc1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\C# Programs\Personal\Calc1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Programming\C# Programs\Personal\Calc1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Programming\C# Programs\Personal\Calc1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Programming\C# Programs\Personal\Calc1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Programming\C# Programs\Personal\Calc1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Programming\C# Programs\Personal\Calc1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Programming\C# Programs\Personal\Calc1\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
